@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @VincentoV
-- 👀 I’m interested in Crypto / WEB3 / Blockchain
-- 🌱 I’m currently learning how to raise funds for a crypto project.
-- 💞️ I’m looking to collaborate on developing WEB3 Eco-System.
-- 📫 How to reach me @vince_defi (TG)
-- 😄 Pronouns: Vincento 
-- ⚡ Fun fact: I have created all our eco-system after I ate magic mushrooms 🍄 in KohPhangan Island.
+👋 Hi, I’m @VincentoV  
+
+🚀 Web3 & Crypto Executive with experience in exchange operations, partnerships, and ecosystem growth  
+
+👀 Interested in Crypto / Web3 / Blockchain / AI  
+
+🌱 Currently focused on fundraising strategies, token launches, and scaling Web3 ecosystems  
+
+💞️ Open to collaborations on Web3 infrastructure, DeFi, and ecosystem development  
+
+📫 Reach me on Telegram: @vince_defi  
+
+⚡ Background: Former CEO of a crypto exchange (3M+ users, $100M+ daily volume), actively building and scaling Web3 projects across Asia .
+✌️ Fun fact: I enjoy building ideas in unconventional environments 🌴
 
 <!---
 VincentoV/VincentoV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
